@@ -2,63 +2,63 @@
 
 ## [Black Formatter Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
 
-> Automatically formats your Python code according to **PEP 8 standards**, ensuring clean and consistent code.
+Automatically formats your Python code according to **PEP 8 standards**, ensuring clean and consistent code.
 
 ## [Tailwind Docs Extension](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
 
-> Provides quick access to **Tailwind CSS documentation** directly from your editor, making development faster and easier.
+Provides quick access to **Tailwind CSS documentation** directly from your editor, making development faster and easier.
 
 ## [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
-> Enhances Tailwind CSS development with intelligent autocomplete, linting, and hover previews for classes.
+Enhances Tailwind CSS development with intelligent autocomplete, linting, and hover previews for classes.
 
 ## [Tabnine: AI Chat & Autocomplete](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 
-> Boosts productivity with AI-powered code autocomplete and chat support for languages like JavaScript, Python, TypeScript, Java, PHP, Go, and more.
+Boosts productivity with AI-powered code autocomplete and chat support for languages like JavaScript, Python, TypeScript, Java, PHP, Go, and more.
 
 ## [SQLite Viewer](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer)
 
-> Easily view and explore SQLite database files directly within VS Code, with a user-friendly interface and query support.
+Easily view and explore SQLite database files directly within VS Code, with a user-friendly interface and query support.
 
 ## [Python Type Hint](https://marketplace.visualstudio.com/items?itemName=njqdev.vscode-python-typehint)
 
-> Provides intelligent type hint suggestions and autocompletion for Python, improving code clarity and maintainability.
+Provides intelligent type hint suggestions and autocompletion for Python, improving code clarity and maintainability.
 
 ## [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
 
-> Automatically adjusts Python indentation to match PEP 8 standards, ensuring consistent and clean code formatting.
+Automatically adjusts Python indentation to match PEP 8 standards, ensuring consistent and clean code formatting.
 
 ## [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-> An opinionated code formatter that supports many languages, ensuring consistent style and formatting across your codebase.
+An opinionated code formatter that supports many languages, ensuring consistent style and formatting across your codebase.
 
 ## [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-> Enhances your VS Code experience with beautiful, easy-to-recognize file and folder icons based on Material Design.
+Enhances your VS Code experience with beautiful, easy-to-recognize file and folder icons based on Material Design.
 
 ## [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
-> Launch a local development server with live reload capability for static and dynamic pages, enhancing your web development workflow.
+Launch a local development server with live reload capability for static and dynamic pages, enhancing your web development workflow.
 
 ## [JetBrains IDE Keymap](https://marketplace.visualstudio.com/items?itemName=isudox.vscode-jetbrains-keybindings)
 
-> Brings JetBrains IDE keybindings to VS Code, allowing you to use familiar shortcuts and navigation if you're transitioning from JetBrains products.
+Brings JetBrains IDE keybindings to VS Code, allowing you to use familiar shortcuts and navigation if you're transitioning from JetBrains products.
 
 ## [Dracula Theme Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
-> A dark and visually stunning theme with vibrant colors, perfect for reducing eye strain during long coding sessions.
+A dark and visually stunning theme with vibrant colors, perfect for reducing eye strain during long coding sessions.
 
 ## [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
 
-> Provides support for Django development in VS Code with features like syntax highlighting, code snippets, and easy navigation for Django templates and views.
+Provides support for Django development in VS Code with features like syntax highlighting, code snippets, and easy navigation for Django templates and views.
 
 ## [autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8)
 
-> Automatically formats Python code to conform to the PEP 8 style guide, helping you maintain consistent and clean code.
+Automatically formats Python code to conform to the PEP 8 style guide, helping you maintain consistent and clean code.
 
 ## [VS Code Custom Settings](#)
 
-> A highly customized VS Code Theme and settings.
+A highly customized VS Code Theme and settings.
 
 ```
 {
