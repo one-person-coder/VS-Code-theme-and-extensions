@@ -60,7 +60,7 @@ Automatically formats Python code to conform to the PEP 8 style guide, helping y
 
 A highly customized VS Code Theme and settings.
 
-```
+```json
 {
   "workbench.colorTheme": "Dracula Theme",
   // "workbench.colorTheme": "GitHub Dark Default",
